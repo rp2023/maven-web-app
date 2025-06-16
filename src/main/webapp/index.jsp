@@ -9,7 +9,7 @@
 
 <a href="https://wa.me/+919985396677">Send Whatsapp Message To Ashok IT Admin Team For More Info......<a> <br/> <br/>
 
-<a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
+<a href="https://ashokit.in/student/enroll-free-batches">Click Here To See Ashok IT Training free batches</a>
 
 </body>
 </html>
